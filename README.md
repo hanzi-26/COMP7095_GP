@@ -79,7 +79,6 @@ This project aims to predict the traffic accident rate for the year 2025 and to 
 - Python 3.x
 - PySpark
 - Hadoop (properly configured on a Linux system)
-- Docker (or any comparable containerization tool, if needed)
 - Additional Python libraries such as pandas and matplotlib for data handling and visualization
 
 ## Contact Information
